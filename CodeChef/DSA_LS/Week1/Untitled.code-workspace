@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/vidyasagarummadisetty/Prog/CodeChef/April2020"
+		},
+		{
+			"path": "/Users/vidyasagarummadisetty/Prog/CodeForces"
+		},
+		{
+			"path": "/Users/vidyasagarummadisetty/Prog/CodeChef/AprilCookOff"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"__split_buffer": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"vector": "cpp",
+			"utility": "cpp",
+			"set": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
