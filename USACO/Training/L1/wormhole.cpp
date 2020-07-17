@@ -71,6 +71,3 @@ int main(void)
   fout.close();
   return 0;
 }
-//
-
-
